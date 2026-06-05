@@ -66,6 +66,3 @@ logs/
 # C++ build artefacts
 runtime_cpp/build/
 
-# Editor / agent
-.claude/
-
